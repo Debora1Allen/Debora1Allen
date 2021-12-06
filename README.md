@@ -6,7 +6,7 @@
 - 🌱 Estudando Desenvolvimento de Software full stack, Javascript e graduando em Analise e Desenvolvimento de Sistemas
 - 💬 Contate-me no email : deboraaaline21@gmail.com
 - 😄 Pronouns: ela/dela
-
+<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
   <a href="https://github.com/Debora1Allen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debora1Allen&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -14,6 +14,9 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+    <i class = "devicon-adonisjs-original colori"> </i>
+     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   <div>
     <br/>
