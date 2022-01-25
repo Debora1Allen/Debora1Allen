@@ -5,7 +5,7 @@
 
 - 🌱 Estudando Desenvolvimento de Software full stack, Javascript e graduando em Analise e Desenvolvimento de Sistemas
 - 💬 Contate-me no email : deboraaaline21@gmail.com
-- 😄 Pronouns: ela/dela
+
 <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div align="center">
   <a href="https://github.com/Debora1Allen">
