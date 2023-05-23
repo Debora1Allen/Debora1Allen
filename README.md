@@ -6,6 +6,8 @@
 - 🌱 Estudando Desenvolvimento de Software full stack, Javascript/ReacJs/NodeJs/PHP e graduando em Analise e Desenvolvimento de Sistemas
 - 💬 Contate-me no email : deboraaaline21@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Debora1Allen&show_icons=true&theme=dracula)
+
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
