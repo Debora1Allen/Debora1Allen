@@ -1,4 +1,4 @@
-### Oi, eu sou Debora A. Silva 👋
+# Oi, eu sou Debora A. Silva 👋
 
 
 
@@ -6,7 +6,6 @@
 - 🌱 Estudando Desenvolvimento de Software full stack, Javascript/ReacJs/NodeJs/PHP e graduando em Analise e Desenvolvimento de Sistemas
 - 💬 Contate-me no email : deboraaaline21@gmail.com
 
-## GitHub Stats
 <table>
 <tr><td>
 
@@ -32,6 +31,7 @@
       <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
   <div>
     <br/>
      <a href = "mailto:deboraaaline21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
