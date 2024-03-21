@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando Desenvolvimento de Software full stack, Javascript/ReacJs/NodeJs/PHP e graduando em Analise e Desenvolvimento de Sistemas
+- 🌱 Estudando Desenvolvimento de Software full stack, Javascript/ReacJs/NodeJs/PHP e graduando em Ciência da Computação
 - 💬 Contate-me no email : deboraaaline21@gmail.com
 
 <table>
