@@ -2,14 +2,6 @@
 
 
 
-
-- 🌱 Sou uma pessoa desenvolvedora que acredita no poder transformador da tecnologia, em como ela pode impactar positivamente a vida das pessoas e a sociedade como um todo.
-Abraço a convicção de que o conhecimento é dinâmico e está em constante evolução. No mundo acelerado de hoje, permanecer estagnado não é uma opção.
-Em vez disso, acredito na aprendizagem e no crescimento contínuos, reconhecendo que o conhecimento é algo em movimento.
-O meu objetivo, como pessoa desenvolvedora,não é apenas construir software, mas contribuir para um futuro mais inclusivo, equitativo e sustentável.
-Eu me esforço para aproveitar o potencial da tecnologia para enfrentar desafios urgentes, promover a inovação e fazer uma diferença positiva no mundo.
-Através da colaboração, exploração e aprendizagem contínuas.
-
 ------------------------------------------------------------------------------------------------------------------
 - :page_facing_up: Skils:
 
