@@ -8,8 +8,6 @@
 Back-End: Node.js | TypeScript | JavaScript | Docker | MySQL | Object Oriented Programming-OOP | SOLID Principles | Clean Code |MVC Layered Software Architecture | RabbitMQ | Matodologia Agil
 Front-end Development: React.js | Vite.js | CSS | HTML |Responsividade |Acessibilidade | Semantic HTML 
 Tests: Jest | Mocha | Integration Tests | Unit Tests | Mutation Tests
-- 💬 Contate-me no email : deboraaaline21@gmail.com
-
 <table>
 <tr><td>
 
